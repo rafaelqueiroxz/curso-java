@@ -1,0 +1,35 @@
+# Compilação e Execução (Java)
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Pastas de saída de build padrão
+target/
+bin/
+build/
+out/
+
+# Configurações do IntelliJ IDEA (Especificamente locais)
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionary.xml
+.idea/shelf/
+.idea/caches/
+out/
+
+# Arquivos de log e relatórios do IntelliJ
+*.iws
+
+# Se você estiver usando Maven ou Gradle (Configurações locais)
+.gradle/
+/build/
+.mvn/
+*.vbox
